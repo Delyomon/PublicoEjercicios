@@ -7,3 +7,9 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
+/sonarlint/
+
+../target/
+
+../src/
+../src/Passwords
